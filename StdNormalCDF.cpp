@@ -1,7 +1,4 @@
-/*
-* Name: Chinmay Rane
-* GT ID: 903156331
-*/
+
 
 #include "StdNormalCDF.h"
 #include <math.h>
