@@ -1,7 +1,3 @@
-/*
-* Name: Chinmay Rane
-* GT ID: 903156331
-*/
 
 #ifndef __StdNormalCDF__
 #define __StdNormalCDF__
