@@ -1,7 +1,3 @@
-/*
-* Name: Chinmay Rane
-* GT ID: 903156331
-*/
 
 /* Black Scholes Formula Used
 * C(S,t)=SN(d1)−Ke−rTN(d2)
